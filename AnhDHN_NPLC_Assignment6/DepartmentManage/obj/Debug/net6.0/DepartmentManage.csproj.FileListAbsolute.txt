@@ -1,0 +1,15 @@
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\bin\Debug\net6.0\DepartmentManage.exe
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\bin\Debug\net6.0\DepartmentManage.deps.json
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\bin\Debug\net6.0\DepartmentManage.runtimeconfig.json
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\bin\Debug\net6.0\DepartmentManage.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\bin\Debug\net6.0\DepartmentManage.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\obj\Debug\net6.0\DepartmentManage.csproj.AssemblyReference.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\obj\Debug\net6.0\DepartmentManage.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\obj\Debug\net6.0\DepartmentManage.AssemblyInfoInputs.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\obj\Debug\net6.0\DepartmentManage.AssemblyInfo.cs
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\obj\Debug\net6.0\DepartmentManage.csproj.CoreCompileInputs.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\obj\Debug\net6.0\DepartmentManage.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\obj\Debug\net6.0\refint\DepartmentManage.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\obj\Debug\net6.0\DepartmentManage.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\obj\Debug\net6.0\DepartmentManage.genruntimeconfig.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment6\DepartmentManage\obj\Debug\net6.0\ref\DepartmentManage.dll

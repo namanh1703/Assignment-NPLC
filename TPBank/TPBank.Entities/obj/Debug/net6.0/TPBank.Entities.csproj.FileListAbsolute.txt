@@ -1,0 +1,15 @@
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\bin\Debug\net6.0\TPBank.Entities.deps.json
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\bin\Debug\net6.0\TPBank.Entities.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\bin\Debug\net6.0\TPBank.Entities.pdb
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\bin\Debug\net6.0\TPBank.Exceptions.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\bin\Debug\net6.0\TPBank.Exceptions.pdb
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.csproj.AssemblyReference.cache
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.AssemblyInfoInputs.cache
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.AssemblyInfo.cs
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.csproj.CoreCompileInputs.cache
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.csproj.CopyComplete
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\obj\Debug\net6.0\refint\TPBank.Entities.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\obj\Debug\net6.0\TPBank.Entities.pdb
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Entities\obj\Debug\net6.0\ref\TPBank.Entities.dll

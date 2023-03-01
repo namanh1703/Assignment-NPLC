@@ -1,0 +1,15 @@
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\bin\Debug\net6.0\TPbank.Entities.deps.json
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\bin\Debug\net6.0\TPbank.Entities.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\bin\Debug\net6.0\TPbank.Entities.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\bin\Debug\net6.0\TPBank.Exceptions.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\bin\Debug\net6.0\TPBank.Exceptions.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\obj\Debug\net6.0\TPbank.Entities.csproj.AssemblyReference.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\obj\Debug\net6.0\TPbank.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\obj\Debug\net6.0\TPbank.Entities.AssemblyInfoInputs.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\obj\Debug\net6.0\TPbank.Entities.AssemblyInfo.cs
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\obj\Debug\net6.0\TPbank.Entities.csproj.CoreCompileInputs.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\obj\Debug\net6.0\TPbank.Entities.csproj.CopyComplete
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\obj\Debug\net6.0\TPbank.Entities.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\obj\Debug\net6.0\refint\TPbank.Entities.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\obj\Debug\net6.0\TPbank.Entities.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPbank.Entities\obj\Debug\net6.0\ref\TPbank.Entities.dll

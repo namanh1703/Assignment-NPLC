@@ -1,0 +1,12 @@
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\bin\Debug\net6.0\AnhDHN_NPLC_Assignment12.Excercise.deps.json
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\bin\Debug\net6.0\AnhDHN_NPLC_Assignment12.Excercise.dll
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\bin\Debug\net6.0\AnhDHN_NPLC_Assignment12.Excercise.pdb
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\obj\Debug\net6.0\AnhDHN_NPLC_Assignment12.Excercise.csproj.AssemblyReference.cache
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\obj\Debug\net6.0\AnhDHN_NPLC_Assignment12.Excercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\obj\Debug\net6.0\AnhDHN_NPLC_Assignment12.Excercise.AssemblyInfoInputs.cache
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\obj\Debug\net6.0\AnhDHN_NPLC_Assignment12.Excercise.AssemblyInfo.cs
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\obj\Debug\net6.0\AnhDHN_NPLC_Assignment12.Excercise.csproj.CoreCompileInputs.cache
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\obj\Debug\net6.0\AnhDHN_NPLC_Assignment12.Excercise.dll
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\obj\Debug\net6.0\refint\AnhDHN_NPLC_Assignment12.Excercise.dll
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\obj\Debug\net6.0\AnhDHN_NPLC_Assignment12.Excercise.pdb
+E:\Fsoft\Assignment NPLC\AnhDHN_NPLC_.Assignment12\AnhDHN_NPLC_Assignment12.Excercise\obj\Debug\net6.0\ref\AnhDHN_NPLC_Assignment12.Excercise.dll

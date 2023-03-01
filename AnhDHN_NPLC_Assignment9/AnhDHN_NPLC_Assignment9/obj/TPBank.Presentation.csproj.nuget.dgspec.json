@@ -1,0 +1,314 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\AnhDHN_NPLC_Assignment9\\TPBank.Presentation.csproj": {}
+  },
+  "projects": {
+    "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\AnhDHN_NPLC_Assignment9\\TPBank.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\AnhDHN_NPLC_Assignment9\\TPBank.Presentation.csproj",
+        "projectName": "TPBank.Presentation",
+        "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\AnhDHN_NPLC_Assignment9\\TPBank.Presentation.csproj",
+        "packagesPath": "C:\\Users\\NAMANH\\.nuget\\packages\\",
+        "outputPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\AnhDHN_NPLC_Assignment9\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NAMANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.BusinessLogicLayer\\TPBank.BusinessLogicLayer.csproj": {
+                "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.BusinessLogicLayer\\TPBank.BusinessLogicLayer.csproj"
+              },
+              "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPbank.Entities\\TPbank.Entities.csproj": {
+                "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPbank.Entities\\TPbank.Entities.csproj"
+              },
+              "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj": {
+                "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.BusinessLogicLayer\\TPBank.BusinessLogicLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.BusinessLogicLayer\\TPBank.BusinessLogicLayer.csproj",
+        "projectName": "TPBank.BusinessLogicLayer",
+        "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.BusinessLogicLayer\\TPBank.BusinessLogicLayer.csproj",
+        "packagesPath": "C:\\Users\\NAMANH\\.nuget\\packages\\",
+        "outputPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.BusinessLogicLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NAMANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.DataAccessLayer\\TPBank.DataAccessLayer.csproj": {
+                "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.DataAccessLayer\\TPBank.DataAccessLayer.csproj"
+              },
+              "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPbank.Entities\\TPbank.Entities.csproj": {
+                "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPbank.Entities\\TPbank.Entities.csproj"
+              },
+              "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj": {
+                "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.DataAccessLayer\\TPBank.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.DataAccessLayer\\TPBank.DataAccessLayer.csproj",
+        "projectName": "TPBank.DataAccessLayer",
+        "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.DataAccessLayer\\TPBank.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\NAMANH\\.nuget\\packages\\",
+        "outputPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NAMANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPbank.Entities\\TPbank.Entities.csproj": {
+                "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPbank.Entities\\TPbank.Entities.csproj"
+              },
+              "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj": {
+                "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPbank.Entities\\TPbank.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPbank.Entities\\TPbank.Entities.csproj",
+        "projectName": "TPbank.Entities",
+        "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPbank.Entities\\TPbank.Entities.csproj",
+        "packagesPath": "C:\\Users\\NAMANH\\.nuget\\packages\\",
+        "outputPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPbank.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NAMANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj": {
+                "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj",
+        "projectName": "TPBank.Exceptions",
+        "projectPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\TPBank.Exceptions.csproj",
+        "packagesPath": "C:\\Users\\NAMANH\\.nuget\\packages\\",
+        "outputPath": "E:\\Fsoft\\AnhDHN_NPLC_Assignment9\\TPBank.Exceptions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NAMANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

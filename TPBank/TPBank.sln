@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPBank.Presentation", "TPBank.Presentation\TPBank.Presentation.csproj", "{C2950251-CCE4-4CB1-BE42-63160D583D62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPBank.Entities", "TPBank.Entities\TPBank.Entities.csproj", "{B692F9A8-9CF6-4471-895B-6849E2B8C52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPBank.DataAccessLayer", "TPBank.DataAccessLayer\TPBank.DataAccessLayer.csproj", "{60F5B0ED-80AD-411E-9CA4-080C70F0E5CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPBank.BusinessLogicLayer", "TPBank.BusinessLogicLayer\TPBank.BusinessLogicLayer.csproj", "{00871F4D-857E-4C42-BC78-4402A665569F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPBank.Exceptions", "TPBank.Exceptions\TPBank.Exceptions.csproj", "{AD7D1057-4F4D-4121-8E3D-24F2C3203393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2950251-CCE4-4CB1-BE42-63160D583D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2950251-CCE4-4CB1-BE42-63160D583D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2950251-CCE4-4CB1-BE42-63160D583D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2950251-CCE4-4CB1-BE42-63160D583D62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B692F9A8-9CF6-4471-895B-6849E2B8C52F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B692F9A8-9CF6-4471-895B-6849E2B8C52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B692F9A8-9CF6-4471-895B-6849E2B8C52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B692F9A8-9CF6-4471-895B-6849E2B8C52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F5B0ED-80AD-411E-9CA4-080C70F0E5CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F5B0ED-80AD-411E-9CA4-080C70F0E5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F5B0ED-80AD-411E-9CA4-080C70F0E5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F5B0ED-80AD-411E-9CA4-080C70F0E5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00871F4D-857E-4C42-BC78-4402A665569F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00871F4D-857E-4C42-BC78-4402A665569F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00871F4D-857E-4C42-BC78-4402A665569F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00871F4D-857E-4C42-BC78-4402A665569F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7D1057-4F4D-4121-8E3D-24F2C3203393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7D1057-4F4D-4121-8E3D-24F2C3203393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7D1057-4F4D-4121-8E3D-24F2C3203393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7D1057-4F4D-4121-8E3D-24F2C3203393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0219E6BE-C03E-4A6B-8974-5E079FC59064}
+	EndGlobalSection
+EndGlobal

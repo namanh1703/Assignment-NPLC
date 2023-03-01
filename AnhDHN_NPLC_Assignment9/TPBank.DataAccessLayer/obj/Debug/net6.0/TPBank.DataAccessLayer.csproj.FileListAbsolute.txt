@@ -1,0 +1,17 @@
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.csproj.AssemblyReference.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.AssemblyInfoInputs.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.AssemblyInfo.cs
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.DataAccessLayer.deps.json
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.DataAccessLayer.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.DataAccessLayer.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\bin\Debug\net6.0\TPbank.Entities.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.Exceptions.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\bin\Debug\net6.0\TPbank.Entities.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.Exceptions.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.csproj.CopyComplete
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\obj\Debug\net6.0\refint\TPBank.DataAccessLayer.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.DataAccessLayer\obj\Debug\net6.0\ref\TPBank.DataAccessLayer.dll

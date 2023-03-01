@@ -1,0 +1,12 @@
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\bin\Debug\net6.0\TPBank.Exceptions.deps.json
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\bin\Debug\net6.0\TPBank.Exceptions.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\bin\Debug\net6.0\TPBank.Exceptions.pdb
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.csproj.AssemblyReference.cache
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.AssemblyInfoInputs.cache
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.AssemblyInfo.cs
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\obj\Debug\net6.0\refint\TPBank.Exceptions.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.pdb
+C:\Users\NAMANH\Desktop\TPBank\TPBank.Exceptions\obj\Debug\net6.0\ref\TPBank.Exceptions.dll

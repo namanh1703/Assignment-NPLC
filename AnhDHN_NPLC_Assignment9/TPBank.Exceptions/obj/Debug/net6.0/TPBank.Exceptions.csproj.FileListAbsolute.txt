@@ -1,0 +1,12 @@
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\bin\Debug\net6.0\TPBank.Exceptions.deps.json
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\bin\Debug\net6.0\TPBank.Exceptions.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\bin\Debug\net6.0\TPBank.Exceptions.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.csproj.AssemblyReference.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.AssemblyInfoInputs.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.AssemblyInfo.cs
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.csproj.CoreCompileInputs.cache
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\obj\Debug\net6.0\refint\TPBank.Exceptions.dll
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\obj\Debug\net6.0\TPBank.Exceptions.pdb
+E:\Fsoft\AnhDHN_NPLC_Assignment9\TPBank.Exceptions\obj\Debug\net6.0\ref\TPBank.Exceptions.dll

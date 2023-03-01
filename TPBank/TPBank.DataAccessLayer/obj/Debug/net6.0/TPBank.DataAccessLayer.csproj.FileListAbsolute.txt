@@ -1,0 +1,17 @@
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.DataAccessLayer.deps.json
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.DataAccessLayer.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.DataAccessLayer.pdb
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.Entities.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.Exceptions.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.Entities.pdb
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\bin\Debug\net6.0\TPBank.Exceptions.pdb
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.AssemblyInfo.cs
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.csproj.CopyComplete
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\obj\Debug\net6.0\refint\TPBank.DataAccessLayer.dll
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\obj\Debug\net6.0\TPBank.DataAccessLayer.pdb
+C:\Users\NAMANH\Desktop\TPBank\TPBank.DataAccessLayer\obj\Debug\net6.0\ref\TPBank.DataAccessLayer.dll

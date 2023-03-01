@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TPBank.DataAccessLayer/1.0.0": {
+        "dependencies": {
+          "TPBank.Entities": "1.0.0",
+          "TPBank.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "TPBank.DataAccessLayer.dll": {}
+        }
+      },
+      "TPBank.Entities/1.0.0": {
+        "dependencies": {
+          "TPBank.Exceptions": "1.0.0"
+        },
+        "runtime": {
+          "TPBank.Entities.dll": {}
+        }
+      },
+      "TPBank.Exceptions/1.0.0": {
+        "runtime": {
+          "TPBank.Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TPBank.DataAccessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TPBank.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TPBank.Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

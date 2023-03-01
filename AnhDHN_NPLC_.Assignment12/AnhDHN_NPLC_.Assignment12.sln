@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnhDHN_NPLC_Assignment12.Exercise", "AnhDHN_NPLC_Assignment12.Excercise\AnhDHN_NPLC_Assignment12.Exercise.csproj", "{E2E293FE-9866-4FCB-AA07-94178684435B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnhDHN_NPLC_Assignment12.Exercise.UnitTest", "AnhDHN_NPLC_Assignment12_UnitTest\AnhDHN_NPLC_Assignment12.Exercise.UnitTest.csproj", "{B8951EA0-1AE1-4144-8C0D-F6FB2410A766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2E293FE-9866-4FCB-AA07-94178684435B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2E293FE-9866-4FCB-AA07-94178684435B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2E293FE-9866-4FCB-AA07-94178684435B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2E293FE-9866-4FCB-AA07-94178684435B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8951EA0-1AE1-4144-8C0D-F6FB2410A766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8951EA0-1AE1-4144-8C0D-F6FB2410A766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8951EA0-1AE1-4144-8C0D-F6FB2410A766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8951EA0-1AE1-4144-8C0D-F6FB2410A766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DA8376B-72FA-445C-AE57-4BF3950B0554}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Fsoft\\Assignment NPLC\\AnhDHN_NPLC_.Assignment12\\AnhDHN_NPLC_Assignment12.Excercise\\AnhDHN_NPLC_Assignment12.Excercise.csproj": {}
+  },
+  "projects": {
+    "E:\\Fsoft\\Assignment NPLC\\AnhDHN_NPLC_.Assignment12\\AnhDHN_NPLC_Assignment12.Excercise\\AnhDHN_NPLC_Assignment12.Excercise.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Fsoft\\Assignment NPLC\\AnhDHN_NPLC_.Assignment12\\AnhDHN_NPLC_Assignment12.Excercise\\AnhDHN_NPLC_Assignment12.Excercise.csproj",
+        "projectName": "AnhDHN_NPLC_Assignment12.Excercise",
+        "projectPath": "E:\\Fsoft\\Assignment NPLC\\AnhDHN_NPLC_.Assignment12\\AnhDHN_NPLC_Assignment12.Excercise\\AnhDHN_NPLC_Assignment12.Excercise.csproj",
+        "packagesPath": "C:\\Users\\NAMANH\\.nuget\\packages\\",
+        "outputPath": "E:\\Fsoft\\Assignment NPLC\\AnhDHN_NPLC_.Assignment12\\AnhDHN_NPLC_Assignment12.Excercise\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\NAMANH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
